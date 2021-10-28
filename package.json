@@ -1,0 +1,24 @@
+{
+  "name": "increment-git-tag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonputra/increment-git-tag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonputra/increment-git-tag/issues"
+  },
+  "homepage": "https://github.com/antonputra/increment-git-tag#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/exec": "^1.1.0"
+  }
+}
